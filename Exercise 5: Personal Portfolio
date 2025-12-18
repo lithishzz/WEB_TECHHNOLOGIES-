@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; line-height: 1.6; }
+        header { background: #333; color: #fff; padding: 2rem; text-align: center; }
+        section { padding: 20px; max-width: 800px; margin: auto; }
+        .skills-list { background: #f4f4f4; padding: 15px; border-radius: 5px; }
+        footer { text-align: center; font-size: 0.8em; color: #777; padding: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Alex Doe</h1>
+    <p>Aspiring Web Developer & Creative Problem Solver</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! I am a student passionate about building clean, functional websites. I love learning new technologies and improving my coding skills every day.</p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul class="skills-list">
+        <li>HTML5 & CSS3</li>
+        <li>JavaScript (Basics)</li>
+        <li>Responsive Design</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li><strong>E-commerce Mockup:</strong> A UI design for a shoe store.</li>
+        <li><strong>Weather App:</strong> A simple app that fetches API data.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Contact: alex.doe@email.com | Built with HTML & CSS</p>
+</footer>
+
+</body>
+</html>
