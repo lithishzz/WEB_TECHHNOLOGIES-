@@ -1,0 +1,15 @@
+<form action="/submit-form" method="POST">
+    <div>
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="user_name">
+    </div><br>
+    <div>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="user_email">
+    </div><br>
+    <div>
+        <label for="msg">Message:</label><br>
+        <textarea id="msg" name="user_message" rows="4"></textarea>
+    </div><br>
+    <button type="submit">Submit</button>
+</form>
