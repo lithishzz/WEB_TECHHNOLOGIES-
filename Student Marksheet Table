@@ -1,0 +1,30 @@
+<table border="1" cellpadding="10" style="border-collapse: collapse; width: 80%; text-align: left;">
+    <thead>
+        <tr style="background-color: #f2f2f2;">
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>Subject 1</th>
+            <th>Subject 2</th>
+            <th>Subject 3</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>101</td>
+            <td>Alice</td>
+            <td>85</td>
+            <td>90</td>
+            <td>88</td>
+            <td>263</td>
+        </tr>
+        <tr>
+            <td>102</td>
+            <td>Bob</td>
+            <td>78</td>
+            <td>82</td>
+            <td>80</td>
+            <td>240</td>
+        </tr>
+        </tbody>
+</table>
